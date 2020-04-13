@@ -33,14 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Jadon.us</title>
 </svelte:head>
 
-<h1>Great success!</h1>
-
-<figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
-</figure>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p>Hello! My name is Jadon Naas, and this is a personal blog I'm working on to help me learn Svelte, Sapper, and better interface design. I also will write about JavaScript and other technology related topics from time to time as a test of my own knowledge and as a way to help others for whom other existing tutorials on the Internet may not have clicked.</p>
