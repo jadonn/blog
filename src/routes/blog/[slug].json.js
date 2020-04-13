@@ -12,7 +12,6 @@ export function get(req, res, next) {
         const post = {}
         post.slug = slug;
         post.content = content.file(slug);
-        console.log(post);
 		res.end(JSON.stringify(post));
 	} else {
 		res.writeHead(404, {
