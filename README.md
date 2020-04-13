@@ -1,3 +1,7 @@
+# What is this?
+This is a Sapper website based on the default Sapper Rollup template. it has been modified to read content from static Markdown files and display the content using Svelte components for formatting and organization. The application is still served the same as the default Sapper template. Those instructions are preserved below from the original Sapper README file.
+
+---
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
