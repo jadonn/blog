@@ -9,18 +9,18 @@ export function files(){
     }
 }
 
-export function file(slug){
+export function file(category, slug){
     try{
-        const file = fs.readFileSync('./content/blog/' + slug + '/index.md', {encoding: 'utf-8'});
+        const file = fs.readFileSync(`./content/blog/${category}/${slug}/index.md`, {encoding: 'utf-8'});
         return file;
     }catch(error){
         throw error;
     }
 }
 
-export function has(slug){
+export function has(category, slug){
     try{
-        const exists = fs.existsSync('./content/blog/' + slug);
+        const exists = fs.existsSync(`./content/blog/${category}/${slug}`);
         return exists;
     }catch(error){
         throw error;
