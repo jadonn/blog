@@ -1,4 +1,6 @@
 ---
+title: Asynchronous Programming
+slug: asynchronous-programming
 ---
 # Asynchronous Programming
 JavaScript is an asynchronous programming language. This means that your code is not executed from the top of your code file to the bottom of the code file. Unlike Python, PHP, Java, and other synchronous programming languages, JavaScript by default does not wait for code to finish executing before it starts executing the next line of code. This can lead to some difficult-to-troubleshoot bugs where later code does not have the data or information it needs from code executed earlier in the program. For example, the following code will not execute as expected:
