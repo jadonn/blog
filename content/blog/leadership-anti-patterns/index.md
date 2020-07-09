@@ -2,7 +2,7 @@
 title: "Leadership Anti-patterns: Introduction"
 slug: leadership-anti-patterns-introduction
 ---
-# What is this series?
+# Leadership Anti-patterns: Introduction
 This individual series looks at leadership anti-patterns. An anti-pattern is a concept from software development, but more generally it is a way of solving a problem that seems like a common sense or acceptable solution that actually causes more problems or harm than a proper solution to the problem at hand. Leadership is a difficult job, and many leaders may not always have a good solution to the challenges or problems they face. In these situations, a good enough solution can seem like the right solution, but these good enough solutions often have unforeseen costs or problems that could have been easily avoided by taking a little more time to consider alternative solutions.
 
 ## Anti-patterns are about you - the leader
