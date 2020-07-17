@@ -40,3 +40,6 @@ You can also consider if you would want to be on a team of people where everyone
 Becoming a better self-leader takes time and dedication. One of the most important things to remember is to start with small changes that you can easily keep up. You are not going to be able to turn into a good self-leader overnight or all at once. Try to find a few small changes to make at a time, and if that is too difficult find a single change to make to achieve a better outcome.
 
 The changes should be changes that you can keep up over the long term. The point is to change yourself so that your normal behaviors are the behaviors of a good self-leader.
+
+## Don't Give Up! You can do it!
+You may have to keep up your new behaviors and changes for weeks or months before you start to see an impact, but learning how to be a better leader for yourself will help you to lead a better life and to lead your team better. Your team members can also learn from you how to be better leaders for themselves as well. What can you do today to start being a better self-leader?
