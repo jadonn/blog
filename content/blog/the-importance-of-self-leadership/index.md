@@ -15,11 +15,11 @@ Self-leadership is important because you have to be a good leader for yourself b
 You might be thinking that it isn't fair for people to judge you without listening to you directly or paying attention to your actions. That's an understandable reaction; however, people *are* paying attention to your actions and listening to everything you say. In fact, you may be essentially screaming certain things at the people around you without realizing it.
 
 ### What are you saying to others about yourself?
-There are certainly things you directly tell other people about yourself, like your interests, desires, the things you do, your profession, etc. However, there are counteless other things you tell peolpe about yourself unconsciously. Some of these things may seem superficial, but they can have a direct impact on how other people treat you or respond to the things you say or do.
+There are certainly things you directly tell other people about yourself, like your interests, desires, the things you do, your profession, etc. However, there are countless other things you tell people about yourself unconsciously. Some of these things may seem superficial, but they can have a direct impact on how other people treat you or respond to the things you say or do.
 
-For example, keeping a untidy work or living space suggests to those around you that you may not be as concerned with quality or fine-details.
+For example, keeping an untidy work or living space suggests to those around you that you may not be as concerned with quality or fine-details.
 
-Showing up late to meetings or other commitments, especially consistently, signals to other people that you are not organized or you are not as personally invested as they are. They might think you are unreliable eventually.
+Showing up late to meetings or other commitments, especially consistently, signals to other people that you are not organized or you are not as personally invested as they are. They might think you are unreliable.
 
 Being too intimately involved in the work your team is doing could tell your team members that you do not trust them to handle the work. This micro-management also suggests you are anxious or uneasy about the status of the work.
 
@@ -34,7 +34,7 @@ Being a good self-leader can have several starting points. It really depends on 
 
 One guide for finding a path to being a better self-leader is considering how your actions or behavior looks to other people and what practical impact that has on your life or how other people treat you. You should not necessarily be too concerned with other people's opinions of you, but people will act differently based on how you act. How other people act can have a direct impact on your life, such as in the quality of service you receive, whether or not you get a job or a promotion, or how willing people are to work with you.
 
-You can also consider if you would want to be on a team of people where everyone behaved a particular way. One of the main goals of good self-leadership is providing an example of behavior for the team. Everyone on the team will start to work more like you and act more like you; is that going to lead to a good outcome for you, your team members, and your team? If it is going to lead to a good outcome, especially over the long term, you may want to consider exploring a change in behavior.
+You can also consider if you would want to be on a team of people where everyone behaved a particular way (for you philosophy types out there, this is an adaption of Immanuel Kant's Categorial Imperative). One of the main goals of good self-leadership is providing an example of behavior for the team. Everyone on the team will start to work more like you and act more like you; is that going to lead to a good outcome for you, your team members, and your team? If it is going to lead to a good outcome, especially over the long term, you may want to consider exploring a change in behavior.
 
 ### Make Small, Sustainable Changes
 Becoming a better self-leader takes time and dedication. One of the most important things to remember is to start with small changes that you can easily keep up. You are not going to be able to turn into a good self-leader overnight or all at once. Try to find a few small changes to make at a time, and if that is too difficult find a single change to make to achieve a better outcome.
