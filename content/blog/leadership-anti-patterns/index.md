@@ -27,7 +27,7 @@ You do not work for the company or with other departments. You work for and with
 Taking care of your team starts with taking care of yourself. A leader who is stressed out, burned out, or overwhelmed cannot effectively respond to the team's needs.
 
 ### Doing too much line level work
-A leader has to help the team from time to time with their main work and responsibilities; however, a leader also has to lead, and team spent doing line level work is not time spent leading the team.
+A leader has to help the team from time to time with their main work and responsibilities; however, a leader also has to lead, and time spent doing line level work is not time spent leading the team.
 
 ### Not keeping organized
 Like technical debt (another software development concept), organizationl debt accrues more quickly than you think and can easily eat up too much of your time and effort. Keeping yourself organized will cost less time than trying to deal with a disorganized work life.
